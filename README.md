@@ -13,7 +13,7 @@ Eco-Mute is a web app that calculates estimated carbon dioxide emissions for dai
 
 To use Eco-Mute, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/YHKimmm/EcoMute.git`
+1. Clone the repository: 
 2. Navigate to the project directory: `cd ecomute`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
