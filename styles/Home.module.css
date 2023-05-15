@@ -1,0 +1,17 @@
+.text-container {
+    max-width: 1200px; /* or any other value you prefer */
+    margin: 0 auto;
+    position: relative;
+    z-index: 10;
+    text-align: center;
+  }
+  
+  .text-custom-heading {
+    font-size: 10rem; /* or any other value you prefer */
+  }
+  
+  .text-custom-paragraph {
+    font-size: 5xl; /* or any other value you prefer */
+  }
+  
+ 
